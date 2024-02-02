@@ -25,6 +25,7 @@
         <module>sm-04-springboot-2</module>
         <module>sm-04-springboot-3</module>
         <module>sm-04-springboot-4</module>
+        <module>sm-04-springboot-5</module>
     </modules>
 
     <dependencyManagement>

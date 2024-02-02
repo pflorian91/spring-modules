@@ -1,0 +1,12 @@
+management:
+  endpoints:
+    web:
+      exposure:
+        include: info
+
+info:
+  app:
+    name: Spring Boot Application
+    description: This application exposes Spring Boot Actuator Endpoints
+    version: 1.0.0
+#  java-vendor: ${java.specification.vendor}
