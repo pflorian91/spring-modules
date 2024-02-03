@@ -1,0 +1,1 @@
+How to extend actuator info props
