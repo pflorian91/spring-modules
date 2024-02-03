@@ -21,13 +21,13 @@
     </properties>
 
     <modules>
-        <module>sm-04-springboot-1</module>
-        <module>sm-04-springboot-2</module>
-        <module>sm-04-springboot-3</module>
-        <module>sm-04-springboot-4</module>
-        <module>sm-04-springboot-5</module>
-        <module>sm-04-springboot-6</module>
-        <module>sm-04-springboot-7</module>
+        <module>sm-04-springboot-1-datasourceconfig</module>
+        <module>sm-04-springboot-2-logging</module>
+        <module>sm-04-springboot-3-envprops</module>
+        <module>sm-04-springboot-4-containers</module>
+        <module>sm-04-springboot-5-actuatorinfoprops</module>
+        <module>sm-04-springboot-6-actuatormetrics</module>
+        <module>sm-04-springboot-7-testing</module>
         <module>sm-04-springboot-8-jpatest</module>
     </modules>
 

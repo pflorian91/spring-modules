@@ -1,0 +1,19 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.webgenerals</groupId>
+        <artifactId>spring-modules</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+
+    <artifactId>sm-04-springboot-2-logging</artifactId>
+    <name>sm-04-springboot-2-logging</name>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>sm-04-springboot-2-jul</module>
+        <module>sm-04-springboot-2-log4j2</module>
+        <module>sm-04-springboot-2-logback</module>
+    </modules>
+</project>
