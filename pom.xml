@@ -29,6 +29,7 @@
         <module>sm-04-springboot-6-actuatormetrics</module>
         <module>sm-04-springboot-7-testing</module>
         <module>sm-04-springboot-8-jpatest</module>
+        <module>sm-01-springboot-jsontests</module>
     </modules>
 
     <dependencyManagement>
